@@ -8,7 +8,7 @@ apt install -y apache2 > /dev/null 2>&1
 
 cat << EOM > /var/www/html/index.html
 <html>
-  <head><title>Meow!</title></head>
+  <head><title>Optum Connect Demo</title></head>
   <body style="background-image: linear-gradient(red,orange,violet);">
   <center><img src="http://www.castlesandmanorhouses.com/photos/barletta.jpg"></img></center>
   <marquee><h1>The Citadel</h1></marquee>
