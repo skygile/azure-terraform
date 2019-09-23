@@ -1,3 +1,3 @@
-# Very Sinple Terraform Package
+# Very Simple Terraform Package
 
 Getting started.

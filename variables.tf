@@ -7,7 +7,7 @@
 
 variable "resource_group" {
   description = "The name of your Azure Resource Group."
-  default     = "braavos"
+  default     = "simba"
 }
 
 variable "prefix" {
@@ -17,7 +17,7 @@ variable "prefix" {
 
 variable "hostname" {
   description = "Virtual machine hostname. Used for local hostname, DNS, and storage-related names."
-  default     = "citadel"
+  default     = "nala"
 }
 
 variable "location" {
