@@ -7,17 +7,17 @@
 
 variable "resource_group" {
   description = "The name of your Azure Resource Group."
-  default     = "Terraform-Azure-Beginners"
+  default     = "braavos"
 }
 
 variable "prefix" {
   description = "This prefix will be included in the name of some resources."
-  default     = "tfguide"
+  default     = "tf-demo"
 }
 
 variable "hostname" {
   description = "Virtual machine hostname. Used for local hostname, DNS, and storage-related names."
-  default     = "catapp"
+  default     = "citadel"
 }
 
 variable "location" {

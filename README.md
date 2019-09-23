@@ -1,2 +1,3 @@
-# azure-terraform-beginners
-Beginners Guide to Terraforming Azure
+# Very Sinple Terraform Package
+
+Getting started.
